@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "DeckOCards"
+		},
+		{
+			"path": "Assignment"
+		},
+		{
+			"path": "Structs"
+		},
+		{
+			"path": "Interfaces"
+		},
+		{
+			"path": "WebProject"
+		}
+	],
+	"settings": {
+		"html.format.endWithNewline": true
+
+	}
+}
